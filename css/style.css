@@ -1,0 +1,64 @@
+body
+{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+header
+{
+    background-image: url(../images/mainBg.jpg);
+    background-size: cover;
+    background-position:center center;
+}
+ .nav-item .nav-link
+{
+    font-size: 1.2rem;
+}
+header h1
+{
+    font-size: 3rem;
+}
+.rounded-mine
+{
+    border-top-right-radius: 30%;
+    border-bottom-right-radius: 30%;
+}
+.search
+{
+    top:85%;
+}
+.food
+{
+    background-image:   #faf3f1 url(../images/1.png);
+    
+}
+.category
+{
+    background-image: url(../images/category-bg.png);
+    background-position: center center ;
+    background-size: cover;
+}
+.recipe img
+{
+    height: 200px !important;
+}
+.recipe h4
+{
+    color: #AD2828;
+}
+.recipe p
+{
+    font-size: 1.2rem;
+}
+
+#recipeDetails h3
+{
+    color: #AD2828;
+}
+  .scrolling
+{
+    background: #AD2828;
+}
+ .scrolling .navbar a 
+ {
+    color: black;
+} 
